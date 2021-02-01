@@ -28,3 +28,5 @@ Magic Mirror2 를 수정하고 모듈을 추가하여 디스플레이를 구성�
 
 [![Video Label](https://user-images.githubusercontent.com/67909892/86767091-6f14b480-c086-11ea-8775-582dcd0890fc.png)](https://youtu.be/HXZNIvn325w)
 작품을 완성하고 촬영한 유트브 영상이다 창문의 다양한 기능을 확인할 수 있다.
+
+[![Video Label](https://user-images.githubusercontent.com/67909892/86767091-6f14b480-c086-11ea-8775-582dcd0890fc.png)](https://youtu.be/rhCy6J_J1bk)
